@@ -1,0 +1,27 @@
+{
+  "name": "zvms",
+  "displayName": "ZVMS",
+  "description": "镇海中学义工管理系统颜色主题",
+  "version": "2.0.0",
+  "publisher": "蚯鲇蜍",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://avatars.githubusercontent.com/u/122152503?s=400&u=b2835468de9228854618814d9d81a42497f6e8a5&v=4"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZVMS",
+        "uiTheme": "vs",
+        "path": "./themes/zvms-color-theme.json"
+      }
+    ]
+  }
+}
